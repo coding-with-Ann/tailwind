@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/*
+These are tailwind directives
+These tailwind directives are telling the tailwindcss to inject base, components and utilities
+into our css */
